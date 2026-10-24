@@ -1,0 +1,16 @@
+2026-10-24T02:32:36.678630 | Run 1 | Accuracy: 0.742 | Balanced Accuracy: 0.743 | Macro F1: 0.740
+2026-10-24T02:32:38.171977 | Run 2 | Accuracy: 0.691 | Balanced Accuracy: 0.687 | Macro F1: 0.682
+2026-10-24T02:32:39.680469 | Run 3 | Accuracy: 0.777 | Balanced Accuracy: 0.777 | Macro F1: 0.776
+2026-10-24T02:32:41.089477 | Run 4 | Accuracy: 0.688 | Balanced Accuracy: 0.690 | Macro F1: 0.684
+2026-10-24T02:32:42.600013 | Run 5 | Accuracy: 0.726 | Balanced Accuracy: 0.723 | Macro F1: 0.720
+2026-10-24T02:32:44.081754 | Run 6 | Accuracy: 0.723 | Balanced Accuracy: 0.727 | Macro F1: 0.716
+2026-10-24T02:32:45.570232 | Run 7 | Accuracy: 0.726 | Balanced Accuracy: 0.723 | Macro F1: 0.722
+2026-10-24T02:32:47.037702 | Run 8 | Accuracy: 0.673 | Balanced Accuracy: 0.673 | Macro F1: 0.661
+2026-10-24T02:32:48.821037 | Run 9 | Accuracy: 0.724 | Balanced Accuracy: 0.723 | Macro F1: 0.715
+2026-10-24T02:32:50.891625 | Run 10 | Accuracy: 0.688 | Balanced Accuracy: 0.690 | Macro F1: 0.686
+2026-10-24T03:13:41.736137 | Run 11 | Accuracy: 0.761 | Balanced Accuracy: 0.763 | Macro F1: 0.757
+2026-10-24T03:13:45.484151 | Run 12 | Accuracy: 0.739 | Balanced Accuracy: 0.740 | Macro F1: 0.731
+2026-10-24T03:13:47.518748 | Run 13 | Accuracy: 0.758 | Balanced Accuracy: 0.760 | Macro F1: 0.753
+2026-10-24T03:13:49.112948 | Run 14 | Accuracy: 0.724 | Balanced Accuracy: 0.723 | Macro F1: 0.722
+2026-10-24T09:15:41.545800 | Run 15 | Accuracy: 0.724 | Balanced Accuracy: 0.727 | Macro F1: 0.723
+2026-10-24T11:34:33.133460 | Run 16 | Accuracy: 0.738 | Balanced Accuracy: 0.730 | Macro F1: 0.725
